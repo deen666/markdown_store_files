@@ -95,6 +95,7 @@ https://metrics.torproject.org/rs.html#search
 
 
 
+
    >  *หมายเหตุ* 
    >  คำสั่งอื่นๆ ให้ศึกษา Command line ของ Linux เพิ่มเติม
    >  และวิธีติดตั้งฉบับเต็มของ Tor และการตรวจสอบ Integrety ของตัวไฟล์เองที่ https://community.torproject.org/
