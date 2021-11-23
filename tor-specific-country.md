@@ -3,8 +3,7 @@
 
 ### For education purpose only.
 
-สวัสดีครับ
-โดยวันนี้ผมจะขอ share เรื่องการติดตั้ง Tor และ  config for specific country
+การติดตั้ง Tor แบบเบื้องต้นบน Kali Linux และ config torrc ในการกำหนดประเทศ
 
 *การที่เราเปิด Web หรือที่เห็นต่างๆ ทุกวันนี้ให้มองว่ามี  Clearnet , Deepnet , Darknet.
 (Surface Web , Deep Web , Dark Web)  .
