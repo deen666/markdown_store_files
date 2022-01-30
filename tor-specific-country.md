@@ -8,7 +8,7 @@
 *การที่เราเปิด Web หรือที่เห็นต่างๆ ทุกวันนี้ให้มองว่ามี  Clearnet , Deepnet , Darknet.
 (Surface Web , Deep Web , Dark Web)  .
 
-![enter image description here](https://edukasinewss.com/wp-content/uploads/2021/08/the-deep-web.jpg)
+![cr. image edukasinewss.com](https://edukasinewss.com/wp-content/uploads/2021/08/the-deep-web.jpg)
   cr. image edukasinewss.com
   
  อย่างที่ทราบกันว่า Tor นั้นจุดประสงค์หลักของมันเลยก็คือเพื่อความ  Anonimity / Privacy
